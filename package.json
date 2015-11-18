@@ -1,11 +1,13 @@
 {
-  "name": "bootstrap-3-sass-start",
-  "version": "0.1",
-  "description": "Jump off for Bootstrap 3.3.3 Sass",
-  "author": "Turlough McAnespy",
+  "name": "genesis-sample-sass",
+  "version": "2.1.2",
+  "description": "The Genesis Sample Theme with Sass",
+  "author": "Greg Rickaby",
+  "homepage": "http://gregrickaby.com",
+  "bugs": "https://github.com/gregrickaby/genesis-sample/issues",
   "repository"  : {
     "type": "git",
-    "url": "git@github.com:TurloughMc/bootstrap-start"
+    "url": "git@github.com:gregrickaby/genesis-sample.git"
   },
   "licenses": [
     {

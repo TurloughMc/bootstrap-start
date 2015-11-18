@@ -1,7 +1,7 @@
 sass_dir         = "bootstrap_components"
 http_path        = "/"
 css_dir          = "bootstrap_compiled/css"
-#css_dir          = "../../static/insight_epr/bootstrap_compiled/css"
+#css_dir          = "../../static/insight/bootstrap_compiled/css"
 images_dir       = "/images"
 relative_assets  = true
 environment      = :development
