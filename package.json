@@ -1,0 +1,28 @@
+{
+  "name": "genesis-sample-sass",
+  "version": "2.1.2",
+  "description": "The Genesis Sample Theme with Sass",
+  "author": "Greg Rickaby",
+  "homepage": "http://gregrickaby.com",
+  "bugs": "https://github.com/gregrickaby/genesis-sample/issues",
+  "repository"  : {
+    "type": "git",
+    "url": "git@github.com:gregrickaby/genesis-sample.git"
+  },
+  "licenses": [
+    {
+      "type": "GPL-3.0+",
+      "url": "http://www.gnu.org/licenses/gpl-3.0.txt"
+    }
+  ],
+  "devDependencies": {
+      "grunt": "~0.4.1",
+      "grunt-autoprefixer": "~0.7.6",
+      "grunt-contrib-compass": "~0.7.1",
+      "grunt-contrib-cssmin": "~0.10.0",
+      "grunt-contrib-uglify": "~0.5.0",
+      "grunt-contrib-watch": "~0.6.1",
+      "grunt-csscomb": "~3.0.0-1",
+      "load-grunt-tasks": "~0.5.0"
+  }
+}
